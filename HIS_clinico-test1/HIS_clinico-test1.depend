@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1672508942 source:c:\users\thinkpad\onedrive - instituto politecnico nacional\3er semestre thinkpad\poo\his_clinico-test1\src\usuario.cpp
+	<iostream>
+	<fstream>
+	"Usuario.h"
+
+1672509293 c:\users\thinkpad\onedrive - instituto politecnico nacional\3er semestre thinkpad\poo\his_clinico-test1\include\usuario.h
+	<iostream>
+	<string>
+
+1672347225 source:c:\users\thinkpad\onedrive - instituto politecnico nacional\3er semestre thinkpad\poo\his_clinico-test1\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	"Usuario.h"
+	"Paciente.h"
+	"clinicoHIS.h"
+
+1672509293 c:\users\thinkpad\onedrive - instituto politecnico nacional\3er semestre thinkpad\poo\his_clinico-test1\include\paciente.h
+	"Usuario.h"
+	"Historia.h"
+
+1672347307 c:\users\thinkpad\onedrive - instituto politecnico nacional\3er semestre thinkpad\poo\his_clinico-test1\include\medico.h
+	"Paciente.h"
+	"Usuario.h"
+
+1672354651 source:c:\users\thinkpad\onedrive - instituto politecnico nacional\3er semestre thinkpad\poo\his_clinico-test1\src\paciente.cpp
+	<fstream>
+	"Paciente.h"
+
+1672352692 source:c:\users\thinkpad\onedrive - instituto politecnico nacional\3er semestre thinkpad\poo\his_clinico-test1\src\medico.cpp
+	<fstream>
+	"Medico.h"
+
+1672340860 source:c:\users\thinkpad\onedrive - instituto politecnico nacional\3er semestre thinkpad\poo\his_clinico-test1\src\clinicohis.cpp
+	"clinicoHIS.h"
+
+1672346480 c:\users\thinkpad\onedrive - instituto politecnico nacional\3er semestre thinkpad\poo\his_clinico-test1\include\clinicohis.h
+	"Medico.h"
+
+1672509293 c:\users\thinkpad\onedrive - instituto politecnico nacional\3er semestre thinkpad\poo\his_clinico-test1\include\historia.h
+	<iostream>
+	<string>
+
+1672290028 source:c:\users\thinkpad\onedrive - instituto politecnico nacional\3er semestre thinkpad\poo\his_clinico-test1\src\historia.cpp
+	"Historia.h"
+
